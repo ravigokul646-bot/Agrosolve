@@ -1,0 +1,5 @@
+{
+  "name": "AgroSolve AI",
+  "description": "An AI-powered agricultural assistant for crop diagnosis, pest management, and farming queries.",
+  "requestFramePermissions": ["camera"]
+}
